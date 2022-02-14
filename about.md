@@ -6,6 +6,7 @@ redirect_from: /about.html
 ---
 
 ## Hi there 👋
+modify from Dasol :)
 Introduce your self
 I`m NrdyBhu1
 
